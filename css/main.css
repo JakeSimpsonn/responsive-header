@@ -20,6 +20,8 @@ a {
   text-decoration: none;
   color: #6c8fe0;
   font-size: 1.125rem;
+  display: inline-block;
+  width: 25%;
 }
 
 nav {
@@ -37,6 +39,7 @@ h1 {
   font-size: 2rem;
   font-weight: bold;
   color: #fff;
+  padding:
 }
 
 header {
