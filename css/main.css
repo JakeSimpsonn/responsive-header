@@ -27,7 +27,8 @@ nav {
 }
 
 a:hover {
-
+  background-color: #6c8fe0;
+  color: #fff;
 }
 
 h1 {
