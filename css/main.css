@@ -12,7 +12,7 @@ html {
 /******************* body *******************/
 
 body {
-  background-color: #18294f;
+  background-color: #fff;
 
 }
 
@@ -35,4 +35,5 @@ h1 {
   font-size: 2rem;
   font-weight: bold;
   color: #fff;
+  background-color: #18294f;
 }
